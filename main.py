@@ -7,7 +7,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 
 wikipedia.set_lang('uz')
-TOKEN = "8290494668:AAEh7v-5hw40PHt6cOo3ji0nmiKB8KnZbqo"
+TOKEN = "8534311062:AAFPZ1TI3OYfa0lJCLXeq-UVUsarOwNTJtg"
 
 dp = Dispatcher()
 
@@ -34,3 +34,4 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
+
